@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nerdnavis.github.io/static/css/main.503d4c57.css",
-    "main.js": "/nerdnavis.github.io/static/js/main.e1e9a1b2.js",
-    "static/js/453.ae6a45cb.chunk.js": "/nerdnavis.github.io/static/js/453.ae6a45cb.chunk.js",
-    "static/media/png": "/nerdnavis.github.io/static/media/8eb05fdf62801b9d.8e2a6d6577a12d1d7b9f.png",
-    "index.html": "/nerdnavis.github.io/index.html",
-    "main.503d4c57.css.map": "/nerdnavis.github.io/static/css/main.503d4c57.css.map",
-    "main.e1e9a1b2.js.map": "/nerdnavis.github.io/static/js/main.e1e9a1b2.js.map",
-    "453.ae6a45cb.chunk.js.map": "/nerdnavis.github.io/static/js/453.ae6a45cb.chunk.js.map"
+    "main.css": "/static/css/main.503d4c57.css",
+    "main.js": "/static/js/main.bcf6388c.js",
+    "static/js/453.ae6a45cb.chunk.js": "/static/js/453.ae6a45cb.chunk.js",
+    "static/media/png": "/static/media/8eb05fdf62801b9d.8e2a6d6577a12d1d7b9f.png",
+    "index.html": "/index.html",
+    "main.503d4c57.css.map": "/static/css/main.503d4c57.css.map",
+    "main.bcf6388c.js.map": "/static/js/main.bcf6388c.js.map",
+    "453.ae6a45cb.chunk.js.map": "/static/js/453.ae6a45cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.503d4c57.css",
-    "static/js/main.e1e9a1b2.js"
+    "static/js/main.bcf6388c.js"
   ]
 }
