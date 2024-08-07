@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nerdnavis.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/nerdnavis.github.io/static/js/main.fea70d65.js",
+    "main.css": "/nerdnavis.github.io/static/css/main.503d4c57.css",
+    "main.js": "/nerdnavis.github.io/static/js/main.6efd40d5.js",
     "static/js/453.ae6a45cb.chunk.js": "/nerdnavis.github.io/static/js/453.ae6a45cb.chunk.js",
-    "static/media/logo.svg": "/nerdnavis.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/png": "/nerdnavis.github.io/static/media/8eb05fdf62801b9d.8e2a6d6577a12d1d7b9f.png",
     "index.html": "/nerdnavis.github.io/index.html",
-    "main.f855e6bc.css.map": "/nerdnavis.github.io/static/css/main.f855e6bc.css.map",
-    "main.fea70d65.js.map": "/nerdnavis.github.io/static/js/main.fea70d65.js.map",
+    "main.503d4c57.css.map": "/nerdnavis.github.io/static/css/main.503d4c57.css.map",
+    "main.6efd40d5.js.map": "/nerdnavis.github.io/static/js/main.6efd40d5.js.map",
     "453.ae6a45cb.chunk.js.map": "/nerdnavis.github.io/static/js/453.ae6a45cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.fea70d65.js"
+    "static/css/main.503d4c57.css",
+    "static/js/main.6efd40d5.js"
   ]
 }
